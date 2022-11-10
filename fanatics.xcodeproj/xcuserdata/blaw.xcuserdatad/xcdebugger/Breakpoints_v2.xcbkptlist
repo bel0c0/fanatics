@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5AD7DDAF-846E-4EE8-A753-4C4759D66975"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7F51449-DF34-4003-BCBE-8F98F6A5E72F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fanaticsTests/fanaticsTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testGetAllUsersSuccessfully()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7F51449-DF34-4003-BCBE-8F98F6A5E72F - 47e22a3ccb2a229e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fanaticsTests.fanaticsTests.testGetAllUsersSuccessfully() -&gt; ()"
+                  moduleName = "fanaticsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blaw/dev/fanatics/fanatics/fanaticsTests/fanaticsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "D7F51449-DF34-4003-BCBE-8F98F6A5E72F - 47e22a3ccb2a211a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fanaticsTests.fanaticsTests.testGetAllUsersSuccessfully() -&gt; ()"
+                  moduleName = "fanaticsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blaw/dev/fanatics/fanatics/fanaticsTests/fanaticsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66443917-A585-4341-AC44-6145C1DEF2E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fanaticsTests/fanaticsTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "testGetNoUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66443917-A585-4341-AC44-6145C1DEF2E2 - 1e7e55c15fef01db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fanaticsTests.fanaticsTests.testNoUsers() -&gt; ()"
+                  moduleName = "fanaticsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blaw/dev/fanatics/fanatics/fanaticsTests/fanaticsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "66443917-A585-4341-AC44-6145C1DEF2E2 - 791c947d61dccaef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;Swift.Array&lt;fanatics.Person&gt;, Swift.Error&gt;) -&gt; () in fanaticsTests.fanaticsTests.testNoUsers() -&gt; ()"
+                  moduleName = "fanaticsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blaw/dev/fanatics/fanatics/fanaticsTests/fanaticsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "66443917-A585-4341-AC44-6145C1DEF2E2 - 1e7e55c15fef015f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fanaticsTests.fanaticsTests.testNoUsers() -&gt; ()"
+                  moduleName = "fanaticsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blaw/dev/fanatics/fanatics/fanaticsTests/fanaticsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "66443917-A585-4341-AC44-6145C1DEF2E2 - 791c947d61dcca6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;Swift.Array&lt;fanatics.Person&gt;, Swift.Error&gt;) -&gt; () in fanaticsTests.fanaticsTests.testNoUsers() -&gt; ()"
+                  moduleName = "fanaticsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blaw/dev/fanatics/fanatics/fanaticsTests/fanaticsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "66443917-A585-4341-AC44-6145C1DEF2E2 - 27ed87150ea11402"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fanaticsTests.fanaticsTests.testGetNoUsers() -&gt; ()"
+                  moduleName = "fanaticsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blaw/dev/fanatics/fanatics/fanaticsTests/fanaticsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "66443917-A585-4341-AC44-6145C1DEF2E2 - 34269a42c14baede"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;Swift.Array&lt;fanatics.Person&gt;, Swift.Error&gt;) -&gt; () in fanaticsTests.fanaticsTests.testGetNoUsers() -&gt; ()"
+                  moduleName = "fanaticsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blaw/dev/fanatics/fanatics/fanaticsTests/fanaticsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE70A526-4C4F-4761-B06C-40EE914BA9C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fanaticsTests/fanaticsTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "testModifyUserSuccessfully()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28733120-9C53-496D-969F-CB1268B8BCF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fanatics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "run(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
