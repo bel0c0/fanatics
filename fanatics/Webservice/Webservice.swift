@@ -88,7 +88,6 @@ class PersonAPI {
             case 200:
                 let totalPage = response.value(forHTTPHeaderField: "X-Pagination-Pages") ?? "0"
                 os_log("total page: %@ ", log: self.networkLog, type: .debug, totalPage)
-                print()
                 let persons = try? JSONDecoder().decode([Person].self, from: data)
                 if let persons = persons {
                     completion(.success(persons))
